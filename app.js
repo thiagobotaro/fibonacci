@@ -1,4 +1,4 @@
-let tabela = [0, 1];
+let tabela = [1, 1];
 let numero = 0;
 
 
