@@ -2,7 +2,6 @@ let tabela = [0, 1];
 let numero = 0;
 
 // teste
-// novo teste
 
 function adicionar(){
 numero = parseInt(document.getElementById('campo-1').value);
