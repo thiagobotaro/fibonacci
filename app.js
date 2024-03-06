@@ -1,8 +1,6 @@
 let tabela = [0, 1];
 let numero = 0;
 
-// teste
-//novo teste de novo
 
 
 function adicionar(){
