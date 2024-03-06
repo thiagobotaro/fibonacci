@@ -4,6 +4,8 @@ let numero = 0;
 // teste
 //novo teste de novo
 
+//  adicionando novo teste
+
 function adicionar(){
 numero = parseInt(document.getElementById('campo-1').value);
 let contador = 0;
